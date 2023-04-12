@@ -1,0 +1,4 @@
+
+k	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ð“¿ÿÿÿÿÿ
+_
+java:S1858r"I"userId" is already a string, there's no need to call "toString()" on it.( €ñÍ

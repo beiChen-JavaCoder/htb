@@ -1,0 +1,20 @@
+server:
+  port: 8130
+
+spring:
+  application:
+    name: service-oss
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 # nacos服务地址
+
+aliyun:
+  oss:
+    endpoint: oss-cn-hangzhou.aliyuncs.com
+    keyId: LTAI5tJfj2LLZYzL4BjewCau
+    keySecret: WYQ6dFrfAfpkBNnUxPKbJ7F0Iyuw6f
+    bucketName: xqf-srb-file
+

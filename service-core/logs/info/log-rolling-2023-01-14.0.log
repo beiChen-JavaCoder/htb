@@ -1,0 +1,626 @@
+2023-01-14 17:55:21 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 19500 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 17:55:21 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 17:55:38 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21116 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 17:55:38 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 17:55:57 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 19620 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 17:55:57 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 17:56:17 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21124 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 17:56:17 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 17:56:41 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 5216 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 17:56:41 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 17:57:05 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 20748 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 17:57:05 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 17:58:56 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21472 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 17:58:56 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:00:00 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21344 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:00:00 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:01:19 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 14400 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:01:19 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:01:24 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.679 seconds (JVM running for 5.702)
+2023-01-14 18:04:32 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 14400 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:04:32 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:04:33 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.61 seconds (JVM running for 195.448)
+2023-01-14 18:09:17 [ERROR] http-nio-8110-exec-10 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 18:10:34 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 14400 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:10:34 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:10:36 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.491 seconds (JVM running for 557.963)
+2023-01-14 18:12:29 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 20944 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:12:29 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:12:32 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 3.773 seconds (JVM running for 4.925)
+2023-01-14 18:13:19 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 20944 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:13:19 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:13:21 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.52 seconds (JVM running for 53.289)
+2023-01-14 18:14:27 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 20944 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:14:27 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:14:29 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.358 seconds (JVM running for 121.158)
+2023-01-14 18:15:13 [ERROR] http-nio-8110-exec-10 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 18:16:03 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 18:16:59 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 20944 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:16:59 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:17:01 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.65 seconds (JVM running for 273.477)
+2023-01-14 18:17:54 [INFO ] http-nio-8110-exec-3 AdminIntegralGradeController.java:28 com.xqf.srb.core.controller.admin.AdminIntegralGradeController info...............
+2023-01-14 18:17:54 [ERROR] http-nio-8110-exec-3 AdminIntegralGradeController.java:29 com.xqf.srb.core.controller.admin.AdminIntegralGradeController error..........
+2023-01-14 18:17:54 [WARN ] http-nio-8110-exec-3 AdminIntegralGradeController.java:30 com.xqf.srb.core.controller.admin.AdminIntegralGradeController warn............
+2023-01-14 18:18:51 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22400 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:18:51 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:18:55 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.488 seconds (JVM running for 5.495)
+2023-01-14 18:19:08 [ERROR] http-nio-8110-exec-8 UnifiedExceptionHandler.java:35 com.xqf.common.exception.UnifiedExceptionHandler java.util.HashMap cannot be cast to java.lang.String
+java.lang.ClassCastException: java.util.HashMap cannot be cast to java.lang.String
+	at com.xqf.srb.core.controller.api.UserInfoController.register(UserInfoController.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+2023-01-14 18:24:09 [ERROR] http-nio-8110-exec-1 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 手机号已被注册
+2023-01-14 18:25:44 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 20852 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:25:44 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:25:48 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.696 seconds (JVM running for 7.589)
+2023-01-14 18:27:08 [ERROR] http-nio-8110-exec-1 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 手机号已被注册
+2023-01-14 18:27:15 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 19340 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:27:15 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:27:19 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.946 seconds (JVM running for 6.086)
+2023-01-14 18:28:52 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 18:42:33 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 19340 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:42:33 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 18:42:35 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.636 seconds (JVM running for 921.314)
+2023-01-14 18:57:17 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 19340 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 18:57:17 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 19:11:16 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 19:11:16 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 19:11:20 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.764 seconds (JVM running for 6.236)
+2023-01-14 19:12:16 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:73 com.xqf.common.exception.UnifiedExceptionHandler Request method 'GET' not supported
+org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported
+	at org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping.handleNoMatch(RequestMappingInfoHandlerMapping.java:213)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lookupHandlerMethod(AbstractHandlerMethodMapping.java:422)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.getHandlerInternal(AbstractHandlerMethodMapping.java:367)
+	at org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping.getHandlerInternal(RequestMappingInfoHandlerMapping.java:110)
+	at org.springframework.web.servlet.mvc.method.RequestMappingInfoHandlerMapping.getHandlerInternal(RequestMappingInfoHandlerMapping.java:59)
+	at org.springframework.web.servlet.handler.AbstractHandlerMapping.getHandler(AbstractHandlerMapping.java:396)
+	at org.springframework.web.servlet.DispatcherServlet.getHandler(DispatcherServlet.java:1234)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1016)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+2023-01-14 19:30:41 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 19:30:41 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 19:30:43 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.668 seconds (JVM running for 1169.146)
+2023-01-14 19:30:45 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 19:30:45 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 19:30:46 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.314 seconds (JVM running for 1172.431)
+2023-01-14 19:30:54 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 19:30:54 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 19:30:56 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.62 seconds (JVM running for 1182.158)
+2023-01-14 19:34:59 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 19:34:59 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 19:35:01 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 19:35:01 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 19:35:02 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.326 seconds (JVM running for 1428.327)
+2023-01-14 19:36:43 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 19:36:43 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 19:36:44 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.088 seconds (JVM running for 1530.672)
+2023-01-14 19:37:10 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 19:37:10 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 19:37:11 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.002 seconds (JVM running for 1557.118)
+2023-01-14 20:03:36 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:03:36 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:03:38 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.631 seconds (JVM running for 3143.859)
+2023-01-14 20:05:27 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:05:27 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:05:30 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:05:30 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:05:32 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.6 seconds (JVM running for 3258.14)
+2023-01-14 20:06:10 [ERROR] http-nio-8110-exec-2 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 20:10:56 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:10:56 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:10:57 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.49 seconds (JVM running for 3583.298)
+2023-01-14 20:13:49 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:13:49 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:13:50 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.026 seconds (JVM running for 3756.188)
+2023-01-14 20:15:06 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:15:06 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:15:07 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.35 seconds (JVM running for 3833.289)
+2023-01-14 20:15:09 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:15:09 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:15:10 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.205 seconds (JVM running for 3836.553)
+2023-01-14 20:20:57 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:20:57 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:30:58 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:30:58 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:31:00 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.327 seconds (JVM running for 4785.951)
+2023-01-14 20:46:01 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:46:01 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:46:03 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.438 seconds (JVM running for 5689.157)
+2023-01-14 20:59:31 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 20:59:31 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 20:59:33 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.709 seconds (JVM running for 6498.887)
+2023-01-14 21:00:26 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:00:26 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:05:11 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:05:11 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:05:32 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:05:32 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:05:33 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.16 seconds (JVM running for 6859.054)
+2023-01-14 21:06:45 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:06:45 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:06:47 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:06:47 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:06:49 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.257 seconds (JVM running for 6934.856)
+2023-01-14 21:07:56 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:07:56 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:07:58 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:07:58 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:07:59 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.173 seconds (JVM running for 7005.719)
+2023-01-14 21:09:44 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:09:44 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:10:12 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:10:12 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:10:14 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.658 seconds (JVM running for 7139.966)
+2023-01-14 21:10:52 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:10:52 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:10:53 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 0.889 seconds (JVM running for 7179.595)
+2023-01-14 21:10:58 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:10:58 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:10:59 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.176 seconds (JVM running for 7185.091)
+2023-01-14 21:11:09 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:11:09 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:11:37 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:11:37 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:11:38 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 0.843 seconds (JVM running for 7224.439)
+2023-01-14 21:11:44 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:11:44 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:11:46 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.926 seconds (JVM running for 7232.172)
+2023-01-14 21:13:25 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:13:25 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:13:27 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:13:27 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:13:29 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.183 seconds (JVM running for 7334.783)
+2023-01-14 21:13:38 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:13:38 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:13:40 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:13:40 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:13:41 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.15 seconds (JVM running for 7347.702)
+2023-01-14 21:15:14 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:15:14 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:17:55 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:17:55 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:17:56 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.043 seconds (JVM running for 7602.396)
+2023-01-14 21:18:11 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:18:11 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:20:05 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:20:05 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:20:06 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.138 seconds (JVM running for 7732.112)
+2023-01-14 21:20:35 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:20:35 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:20:37 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:20:37 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:20:39 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.578 seconds (JVM running for 7765.1)
+2023-01-14 21:22:19 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:22:19 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:22:20 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.326 seconds (JVM running for 7866.148)
+2023-01-14 21:22:22 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:22:22 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:22:24 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.952 seconds (JVM running for 7870.615)
+2023-01-14 21:22:36 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:22:36 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:22:38 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:22:38 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:22:40 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.22 seconds (JVM running for 7885.87)
+2023-01-14 21:25:27 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:25:27 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:25:28 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.209 seconds (JVM running for 8054.706)
+2023-01-14 21:26:06 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:26:06 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:26:07 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.359 seconds (JVM running for 8093.218)
+2023-01-14 21:26:09 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22324 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:26:09 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:26:10 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.166 seconds (JVM running for 8096.72)
+2023-01-14 21:26:39 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22720 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:26:39 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:26:43 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.835 seconds (JVM running for 5.799)
+2023-01-14 21:30:37 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22720 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:30:37 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:30:39 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.404 seconds (JVM running for 241.326)
+2023-01-14 21:32:52 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22720 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:32:52 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:32:53 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.19 seconds (JVM running for 375.575)
+2023-01-14 21:33:34 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22720 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:33:34 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:33:35 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.288 seconds (JVM running for 417.761)
+2023-01-14 21:36:03 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22360 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:36:03 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:36:07 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.378 seconds (JVM running for 5.593)
+2023-01-14 21:36:37 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 21:37:35 [ERROR] http-nio-8110-exec-5 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 21:40:13 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22360 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:40:13 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:40:15 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 22360 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:40:15 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:40:16 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.212 seconds (JVM running for 254.818)
+2023-01-14 21:40:55 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 21:42:20 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21860 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:42:20 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:42:24 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.284 seconds (JVM running for 6.706)
+2023-01-14 21:44:29 [ERROR] http-nio-8110-exec-1 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 21:50:28 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 21:50:29 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21860 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:50:29 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:50:31 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.263 seconds (JVM running for 493.107)
+2023-01-14 21:51:18 [ERROR] http-nio-8110-exec-1 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 21:52:29 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21860 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:52:29 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:52:31 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21860 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 21:52:31 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 21:52:32 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.271 seconds (JVM running for 614.863)
+2023-01-14 21:52:56 [ERROR] http-nio-8110-exec-1 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 21:53:24 [ERROR] http-nio-8110-exec-9 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 21:53:31 [ERROR] http-nio-8110-exec-10 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 21:55:33 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 22:11:01 [ERROR] http-nio-8110-exec-2 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 22:11:12 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 22:11:29 [ERROR] http-nio-8110-exec-4 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 22:12:08 [ERROR] http-nio-8110-exec-5 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 22:13:00 [ERROR] http-nio-8110-exec-7 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 22:14:23 [ERROR] http-nio-8110-exec-6 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 22:15:06 [ERROR] http-nio-8110-exec-9 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 22:15:48 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21860 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 22:15:48 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 22:17:04 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 12968 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 22:17:04 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 22:17:09 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.765 seconds (JVM running for 6.882)
+2023-01-14 22:17:22 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 22:19:17 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21772 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 22:19:17 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 22:19:21 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.84 seconds (JVM running for 5.977)
+2023-01-14 22:24:57 [ERROR] http-nio-8110-exec-1 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 22:25:06 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 20404 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 22:25:06 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 22:25:10 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.432 seconds (JVM running for 6.677)
+2023-01-14 22:25:18 [ERROR] http-nio-8110-exec-1 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 22:33:11 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 20404 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 22:33:11 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 22:33:13 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.668 seconds (JVM running for 488.835)
+2023-01-14 22:44:26 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 20404 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 22:44:26 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 22:44:48 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 7592 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 22:44:48 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 22:44:53 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.886 seconds (JVM running for 6.27)
+2023-01-14 22:46:33 [INFO ] http-nio-8110-exec-9 AdminIntegralGradeController.java:28 com.xqf.srb.core.controller.admin.AdminIntegralGradeController info...............
+2023-01-14 22:46:33 [ERROR] http-nio-8110-exec-9 AdminIntegralGradeController.java:29 com.xqf.srb.core.controller.admin.AdminIntegralGradeController error..........
+2023-01-14 22:46:33 [WARN ] http-nio-8110-exec-9 AdminIntegralGradeController.java:30 com.xqf.srb.core.controller.admin.AdminIntegralGradeController warn............
+2023-01-14 22:48:15 [INFO ] http-nio-8110-exec-4 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 22:48:15 [ERROR] http-nio-8110-exec-4 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 22:48:48 [INFO ] http-nio-8110-exec-3 Assert.java:18 com.xqf.common.exception.Assert obj is null.....................
+2023-01-14 22:48:48 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 22:53:06 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 23024 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 22:53:06 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 22:53:11 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.71 seconds (JVM running for 6.839)
+2023-01-14 22:53:15 [INFO ] http-nio-8110-exec-1 Assert.java:18 com.xqf.common.exception.Assert obj is null.....................
+2023-01-14 22:53:23 [ERROR] http-nio-8110-exec-1 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 23:04:28 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 23024 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:04:28 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:04:31 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 23024 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:04:31 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:04:33 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.311 seconds (JVM running for 688.354)
+2023-01-14 23:08:56 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 23024 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:08:56 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:08:58 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 23024 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:08:58 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:09:00 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.491 seconds (JVM running for 955.659)
+2023-01-14 23:19:45 [INFO ] http-nio-8110-exec-3 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:19:45 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 23:22:29 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21352 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:22:29 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:22:33 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.656 seconds (JVM running for 6.071)
+2023-01-14 23:22:38 [INFO ] http-nio-8110-exec-2 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:22:38 [ERROR] http-nio-8110-exec-2 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 23:22:56 [ERROR] http-nio-8110-exec-3 UnifiedExceptionHandler.java:35 com.xqf.common.exception.UnifiedExceptionHandler null
+java.lang.NullPointerException: null
+	at com.xqf.common.exception.Assert.equals(Assert.java:72)
+	at com.xqf.srb.core.controller.api.UserInfoController.register(UserInfoController.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+2023-01-14 23:23:39 [INFO ] http-nio-8110-exec-4 Assert.java:18 com.xqf.common.exception.Assert obj is null.....................
+2023-01-14 23:23:39 [ERROR] http-nio-8110-exec-4 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码不能为空
+2023-01-14 23:24:00 [INFO ] http-nio-8110-exec-6 Assert.java:18 com.xqf.common.exception.Assert obj is null.....................
+2023-01-14 23:24:00 [ERROR] http-nio-8110-exec-6 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 23:24:10 [INFO ] http-nio-8110-exec-7 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:24:10 [ERROR] http-nio-8110-exec-7 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 23:24:18 [INFO ] http-nio-8110-exec-8 Assert.java:18 com.xqf.common.exception.Assert obj is null.....................
+2023-01-14 23:24:18 [ERROR] http-nio-8110-exec-8 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 23:24:23 [INFO ] http-nio-8110-exec-9 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:24:23 [ERROR] http-nio-8110-exec-9 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 23:24:36 [INFO ] http-nio-8110-exec-10 Assert.java:18 com.xqf.common.exception.Assert obj is null.....................
+2023-01-14 23:24:36 [ERROR] http-nio-8110-exec-10 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 23:24:40 [INFO ] http-nio-8110-exec-1 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:24:40 [ERROR] http-nio-8110-exec-1 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 密码错误
+2023-01-14 23:27:45 [INFO ] http-nio-8110-exec-6 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:27:45 [ERROR] http-nio-8110-exec-6 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 23:27:54 [INFO ] http-nio-8110-exec-8 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:27:54 [ERROR] http-nio-8110-exec-8 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 23:32:58 [INFO ] http-nio-8110-exec-2 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:32:58 [ERROR] http-nio-8110-exec-2 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 23:33:03 [INFO ] http-nio-8110-exec-4 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:33:03 [ERROR] http-nio-8110-exec-4 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 23:33:11 [INFO ] http-nio-8110-exec-6 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:33:11 [ERROR] http-nio-8110-exec-6 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 23:35:44 [INFO ] http-nio-8110-exec-7 Assert.java:18 com.xqf.common.exception.Assert obj is null.....................
+2023-01-14 23:35:44 [ERROR] http-nio-8110-exec-7 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 23:35:59 [INFO ] http-nio-8110-exec-8 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:35:59 [ERROR] http-nio-8110-exec-8 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户被锁定
+2023-01-14 23:36:09 [INFO ] http-nio-8110-exec-9 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:36:09 [ERROR] http-nio-8110-exec-9 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 密码错误
+2023-01-14 23:36:31 [ERROR] http-nio-8110-exec-10 UnifiedExceptionHandler.java:35 com.xqf.common.exception.UnifiedExceptionHandler null
+java.lang.NullPointerException: null
+	at com.xqf.common.exception.Assert.equals(Assert.java:72)
+	at com.xqf.srb.core.controller.api.UserInfoController.register(UserInfoController.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+2023-01-14 23:38:12 [ERROR] http-nio-8110-exec-2 UnifiedExceptionHandler.java:35 com.xqf.common.exception.UnifiedExceptionHandler null
+java.lang.NullPointerException: null
+	at com.xqf.common.exception.Assert.equals(Assert.java:72)
+	at com.xqf.srb.core.controller.api.UserInfoController.register(UserInfoController.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:750)
+2023-01-14 23:38:14 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21352 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:38:14 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:38:16 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.616 seconds (JVM running for 948.522)
+2023-01-14 23:40:58 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21352 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:40:58 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:40:59 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.635 seconds (JVM running for 1111.803)
+2023-01-14 23:41:29 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21620 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:41:29 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:41:33 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 4.614 seconds (JVM running for 5.75)
+2023-01-14 23:42:12 [INFO ] http-nio-8110-exec-10 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:42:12 [ERROR] http-nio-8110-exec-10 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 验证码错误
+2023-01-14 23:42:24 [INFO ] http-nio-8110-exec-8 Assert.java:18 com.xqf.common.exception.Assert obj is null.....................
+2023-01-14 23:42:24 [ERROR] http-nio-8110-exec-8 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 23:47:16 [INFO ] http-nio-8110-exec-7 Assert.java:18 com.xqf.common.exception.Assert obj is null.....................
+2023-01-14 23:47:16 [ERROR] http-nio-8110-exec-7 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 23:47:25 [INFO ] http-nio-8110-exec-6 Assert.java:73 com.xqf.common.exception.Assert not equals...............
+2023-01-14 23:47:25 [ERROR] http-nio-8110-exec-6 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 密码错误
+2023-01-14 23:47:33 [INFO ] http-nio-8110-exec-10 Assert.java:18 com.xqf.common.exception.Assert obj is null.....................
+2023-01-14 23:47:33 [ERROR] http-nio-8110-exec-10 UnifiedExceptionHandler.java:50 com.xqf.common.exception.UnifiedExceptionHandler 用户不存在
+2023-01-14 23:58:59 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21620 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:58:59 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:59:01 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.563 seconds (JVM running for 1053.257)
+2023-01-14 23:59:04 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21620 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:59:04 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:59:05 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.311 seconds (JVM running for 1057.198)
+2023-01-14 23:59:12 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21620 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:59:12 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:59:15 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21620 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:59:15 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:59:16 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 0.866 seconds (JVM running for 1068.114)
+2023-01-14 23:59:20 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21620 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:59:20 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:59:23 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21620 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:59:23 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod
+2023-01-14 23:59:24 [INFO ] restartedMain StartupInfoLogger.java:61 com.xqf.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 0.941 seconds (JVM running for 1076.169)
+2023-01-14 23:59:28 [INFO ] restartedMain StartupInfoLogger.java:55 com.xqf.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Xqf with PID 21620 (F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb\service-core\target\classes started by Xiao in F:\ProgrammingTools\JetBrains\IDEA\ProJect\srb)
+2023-01-14 23:59:28 [INFO ] restartedMain SpringApplication.java:655 com.xqf.srb.core.ServiceCoreApplication The following profiles are active: prod

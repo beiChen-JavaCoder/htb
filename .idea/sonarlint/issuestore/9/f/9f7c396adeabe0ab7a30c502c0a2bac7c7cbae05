@@ -1,0 +1,13 @@
+
+i
+java:S1192X"SDefine a constant instead of duplicating this literal "agent_project_code" 3 times.(íÎ™Ø
+T
+java:S3516t"9Refactor this method to not always return the same value.(¥‰­šùÿÿÿÿ
+`
+java:S3252+"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(áå·èúÿÿÿÿ
+a
+java:S3252+"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(áå·èúÿÿÿÿ
+Y
+java:S1854…"CRemove this useless assignment to local variable "benefitBindCode".(š’…}
+O
+java:S1481"4Remove this unused "benefitBindCode" local variable.(ï‚®œýÿÿÿÿ

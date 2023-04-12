@@ -1,0 +1,12 @@
+
+`
+java:S11925"JDefine a constant instead of duplicating this literal "returnUrl" 4 times.(ƒƒå„
+‚
+java:S1130/"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÖäËø
+‚
+java:S1130>"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¿äª
+Q	java:S125O"<This block of commented-out lines of code should be removed.(œÿÅ­
+K
+java:S1128"6Remove this unused import 'com.alibaba.fastjson.JSON'.(Ö¢å$
+V
+java:S1128	"@Remove this unused import 'io.swagger.annotations.ApiOperation'.(¡šÜ

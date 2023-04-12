@@ -1,0 +1,15 @@
+
+i
+java:S1192…"MDefine a constant instead of duplicating this literal "returnMethod" 4 times.(½øúÿÿÿÿ
+`
+java:S1192†"IDefine a constant instead of duplicating this literal "moneyUse" 4 times.(€²‚™
+T
+java:S1155s">Use isEmpty() to check whether the collection is empty or not.(Ý”èÕ
+:
+java:S2153¿"#Remove the unboxing from "Integer".(­å’ø
+b
+java:S1128"LRemove this unused import 'com.baomidou.mybatisplus.core.assist.ISqlRunner'.(©òŽ¢
+a
+java:S1128"LRemove this unused import 'com.baomidou.mybatisplus.core.mapper.BaseMapper'.(µ÷á
+V
+java:S1128"@Remove this unused import 'org.springframework.beans.BeanUtils'.(ŠðÄÜ

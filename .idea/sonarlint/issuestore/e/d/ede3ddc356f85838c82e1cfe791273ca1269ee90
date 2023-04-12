@@ -1,0 +1,20 @@
+
+g
+java:S1192J"LDefine a constant instead of duplicating this literal "agentBillNo" 4 times.(ñëÖõùÿÿÿÿ
+`
+java:S1192X"JDefine a constant instead of duplicating this literal "returnUrl" 4 times.(ƒƒå„
+_
+java:S11927"IDefine a constant instead of duplicating this literal "bindCode" 8 times.(é»”Š
+‚
+java:S11301"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÖäËø
+‡
+java:S1130<"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Á‹õûÿÿÿÿ
+Q	java:S125S"<This block of commented-out lines of code should be removed.(Ãêÿÿ
+Q	java:S125W"<This block of commented-out lines of code should be removed.(œÿÅ­
+c	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŠÓÒ
+‚
+java:S1130b"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÜŠÓÒ
+‡
+java:S1130l"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Û¦©¤ùÿÿÿÿ
+Q	java:S125~"<This block of commented-out lines of code should be removed.(Ãêÿÿ
+R	java:S125‚"<This block of commented-out lines of code should be removed.(œÿÅ­

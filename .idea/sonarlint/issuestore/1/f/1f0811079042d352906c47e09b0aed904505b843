@@ -1,0 +1,45 @@
+
+j
+java:S1104"UMake REGION_Id a static final constant or non-public and provide accessors if needed.(¹¼å
+h
+java:S1104"RMake KEY_ID a static final constant or non-public and provide accessors if needed.(™šÚÓ
+l
+java:S1104"VMake KEY_SECRET a static final constant or non-public and provide accessors if needed.(ûõà
+o
+java:S1104"YMake TEMPLATE_CODE a static final constant or non-public and provide accessors if needed.(‡¤±ï
+p
+java:S1104"UMake SIGN_NAME a static final constant or non-public and provide accessors if needed.(°ø³±ùÿÿÿÿ
+D
+java:S1444"/Make this "public static REGION_Id" field final(¹¼å
+B
+java:S1444",Make this "public static KEY_ID" field final(™šÚÓ
+F
+java:S1444"0Make this "public static KEY_SECRET" field final(ûõà
+I
+java:S1444"3Make this "public static TEMPLATE_CODE" field final(‡¤±ï
+J
+java:S1444"/Make this "public static SIGN_NAME" field final(°ø³±ùÿÿÿÿ
+i
+java:S3008"TRename this field "REGION_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¼å
+g
+java:S3008"QRename this field "KEY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™šÚÓ
+k
+java:S3008"URename this field "KEY_SECRET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûõà
+n
+java:S3008"XRename this field "TEMPLATE_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¤±ï
+o
+java:S3008"TRename this field "SIGN_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ø³±ùÿÿÿÿ
+Q
+java:S2696!"6Make the enclosing method "static" or remove this set.(³§Ü…úÿÿÿÿ
+L
+java:S2696""6Make the enclosing method "static" or remove this set.(¢íü
+Q
+java:S2696#"6Make the enclosing method "static" or remove this set.(Öˆ¹Œøÿÿÿÿ
+L
+java:S2696$"6Make the enclosing method "static" or remove this set.(é—ÿœ
+L
+java:S2696%"6Make the enclosing method "static" or remove this set.(ïŸ•Ú
+@
+java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙ
+@
+java:S1128"*Remove this unused import 'lombok.Setter'.(ó¸çµ

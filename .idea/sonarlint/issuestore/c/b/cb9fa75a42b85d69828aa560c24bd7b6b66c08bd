@@ -1,0 +1,7 @@
+
+a
+java:S1192D"LDefine a constant instead of duplicating this literal "agentBillNo" 3 times.(õÄÄ
+u
+java:S1488P"_Immediately return this expression instead of assigning it to the temporary variable "formStr".(¶ò×À
+h
+java:S3252c"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ö–—œýÿÿÿÿ8ë“‘©÷0

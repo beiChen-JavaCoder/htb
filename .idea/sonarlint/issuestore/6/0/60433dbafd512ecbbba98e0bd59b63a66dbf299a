@@ -1,0 +1,15 @@
+
+T
+java:S1128">Remove this unused import 'com.google.common.base.Predicates'.(Ìùð‚
+i
+java:S1128"NRemove this unused import 'springfox.documentation.builders.ParameterBuilder'.(³ŒÜ²ùÿÿÿÿ
+a
+java:S1128"KRemove this unused import 'springfox.documentation.builders.PathSelectors'.(âÝ¸ñ
+Z
+java:S1128	"DRemove this unused import 'springfox.documentation.schema.ModelRef'.(šã¤ã
+a
+java:S1128"FRemove this unused import 'springfox.documentation.service.Parameter'.(áÍðàþÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

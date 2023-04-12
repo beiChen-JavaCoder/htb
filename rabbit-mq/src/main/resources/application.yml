@@ -1,0 +1,7 @@
+spring:
+rabbitmq:
+  host: ip地址
+  port: 5672
+  virtual-host: /srbhost
+  username: 账号
+  password: 密码

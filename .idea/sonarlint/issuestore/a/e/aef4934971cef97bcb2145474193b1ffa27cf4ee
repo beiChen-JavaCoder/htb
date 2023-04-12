@@ -1,0 +1,7 @@
+
+o
+java:S1104"YMake STATUS_NORMAL a static final constant or non-public and provide accessors if needed.(…¼Ÿ„
+I
+java:S1444"3Make this "public static STATUS_NORMAL" field final(…¼Ÿ„
+n
+java:S3008"XRename this field "STATUS_NORMAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¼Ÿ„

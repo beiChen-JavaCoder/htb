@@ -1,0 +1,15 @@
+
+„
+java:S1192‘"mDefine a constant instead of duplicating this literal "The scale must be a positive integer or zero" 4 times.(ÌÚŞ
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¦²Ÿ
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïÿ¶Ò
+l	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö®½Çıÿÿÿÿ
+l	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬©¨ıÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ï‡Ö
+B
+java:S1172#",Remove this unused method parameter "scale".(ı®Ìî
+A
+java:S1172D",Remove this unused method parameter "scale".(×Œ 
+H
+java:S1172Œ",Remove this unused method parameter "scale".(†Öòúÿÿÿÿ

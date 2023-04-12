@@ -1,0 +1,8 @@
+
+c
+java:S5361<"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÇÔ¿§ýÿÿÿÿ
+c
+java:S3252>"HUse static access with "com.alibaba.excel.EasyExcelFactory" for "write".(ÞŠ® úÿÿÿÿ
+e
+java:S1128
+"JRemove this unused import 'com.xqf.srb.core.service.impl.DictServiceImpl'.(©çÔ½ûÿÿÿÿ

@@ -1,0 +1,43 @@
+
+i
+java:S1104"TMake ENDPOINT a static final constant or non-public and provide accessors if needed.(ÙĞƒ
+
+h
+java:S1104"RMake KEY_ID a static final constant or non-public and provide accessors if needed.(™šÚÓ
+l
+java:S1104"VMake KEY_SECRET a static final constant or non-public and provide accessors if needed.(ûõà
+r
+java:S1104"WMake BUCKET_NAME a static final constant or non-public and provide accessors if needed.(¸£Â£ıÿÿÿÿ
+C
+java:S1444".Make this "public static ENDPOINT" field final(ÙĞƒ
+
+B
+java:S1444",Make this "public static KEY_ID" field final(™šÚÓ
+F
+java:S1444"0Make this "public static KEY_SECRET" field final(ûõà
+L
+java:S1444"1Make this "public static BUCKET_NAME" field final(¸£Â£ıÿÿÿÿ
+h
+java:S3008"SRename this field "ENDPOINT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙĞƒ
+
+g
+java:S3008"QRename this field "KEY_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™šÚÓ
+k
+java:S3008"URename this field "KEY_SECRET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûõà
+q
+java:S3008"VRename this field "BUCKET_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸£Â£ıÿÿÿÿ
+i
+java:S1845"TRename field "ENDPOINT" to prevent any misunderstanding/clash with field "endpoint".(ÙĞƒ
+
+Q
+java:S2696!"6Make the enclosing method "static" or remove this set.(ûÆšşÿÿÿÿ
+L
+java:S2696""6Make the enclosing method "static" or remove this set.(¢íü
+Q
+java:S2696#"6Make the enclosing method "static" or remove this set.(Öˆ¹Œøÿÿÿÿ
+K
+java:S2696$"6Make the enclosing method "static" or remove this set.(äÚv
+L
+java:S1128"6Remove this unused import 'javafx.fxml.Initializable'.(™ÎùÆ
+l
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäşÿÿÿÿ

@@ -1,0 +1,15 @@
+
+
+java:S1488r"dImmediately return this expression instead of assigning it to the temporary variable "borrowerPage".(’‡Ú‘üÿÿÿÿ
+?
+java:S5411…"(Use a primitive boolean expression here.(žß¼Þ
+?
+java:S5411Á"(Use a primitive boolean expression here.(Ÿƒº¿
+D
+java:S5411Ì"(Use a primitive boolean expression here.(ó¿íøÿÿÿÿ
+?
+java:S5411Õ"(Use a primitive boolean expression here.(Ÿƒº¿
+Y
+java:S1155]">Use isEmpty() to check whether the collection is empty or not.( Í·¾üÿÿÿÿ
+\
+java:S1128"ARemove this unused import 'com.xqf.common.result.ResultResponse'.(¦­‘àþÿÿÿÿ

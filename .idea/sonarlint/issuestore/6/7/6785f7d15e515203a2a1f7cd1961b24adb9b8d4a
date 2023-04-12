@@ -1,0 +1,27 @@
+
+S
+java:S1854>">Remove this useless assignment to local variable "benifitAmt".(§×	
+V
+java:S1854<";Remove this useless assignment to local variable "baseAmt".(™³¿üÿÿÿÿ
+Y
+java:S18546">Remove this useless assignment to local variable "voteBillNo".(¹šÎ²øÿÿÿÿ
+_
+java:S4143W"DVerify this is the key that was intended; it was already set before.(ÛšÆ¶ûÿÿÿÿ
+`
+java:S32520"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(´‡ÑÈúÿÿÿÿ
+a
+java:S32520"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(´‡ÑÈúÿÿÿÿ
+[
+java:S32523"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(‡ÀÃæ
+J
+java:S14816"/Remove this unused "voteBillNo" local variable.(¹šÎ²øÿÿÿÿ
+G
+java:S1481<",Remove this unused "baseAmt" local variable.(™³¿üÿÿÿÿ
+D
+java:S1481>"/Remove this unused "benifitAmt" local variable.(§×	
+P	java:S125@"<This block of commented-out lines of code should be removed.(‹ÖÅ
+[
+java:S3252B"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(ªçêá
+\
+java:S3252B"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(ªçêá
+V	java:S125J"<This block of commented-out lines of code should be removed.(şĞÃ»ÿÿÿÿÿ

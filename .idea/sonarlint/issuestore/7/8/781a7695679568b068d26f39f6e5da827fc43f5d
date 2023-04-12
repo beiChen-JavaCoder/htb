@@ -1,0 +1,7 @@
+
+W
+java:S1126B"AReplace this if-then-else statement by a single return statement.(â¥–«
+T
+java:S4719`"9Replace charset name argument with StandardCharsets.UTF_8(»âÁ¾ûÿÿÿÿ
+`
+java:S3252g"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(–¬ Žÿÿÿÿÿ

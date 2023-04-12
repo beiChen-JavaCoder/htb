@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rabbit-mq" />
+        <module name="service-gateway" />
+        <module name="service-base" />
+        <module name="hfb" />
+        <module name="service-core" />
+        <module name="xqf-common" />
+        <module name="service-oss" />
+        <module name="service-sms" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="rabbit-mq" options="" />
+      <module name="service-base" options="" />
+      <module name="service-core" options="" />
+      <module name="service-gateway" options="" />
+      <module name="service-oss" options="" />
+      <module name="service-sms" options="" />
+      <module name="xqf-common" options="" />
+    </option>
+  </component>
+</project>
